@@ -5,3 +5,5 @@ To install the extension in 3D Slicer go to
 Edit -> Application settings -> Modules
 
 and add the "Aurora" folder to the "Additional module paths".
+
+The code is still in the alpha version.
